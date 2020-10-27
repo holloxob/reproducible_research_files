@@ -1,0 +1,14 @@
+---
+title: "reproducibility_slideshow"
+author: "Gil J. B. Henriques"
+date: "26/10/2020"
+output: ioslides_presentation
+---
+
+## Slide 1
+This is slide 1.
+
+## Slide 2
+>- Element 1
+>- Element 2
+>- Element 3
